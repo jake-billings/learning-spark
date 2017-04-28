@@ -1,2 +1,2 @@
 # learning-spark
-Revolutionizing K-8 Eductation
+Revolutionizing K-8 Education
