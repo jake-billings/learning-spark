@@ -1,0 +1,22 @@
+{
+  "name": "learning-spark",
+  "version": "1.0.0",
+  "description": "Revolutionizing K-8 education.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jake-billings/learning-spark.git"
+  },
+  "keywords": [
+    "learning-spark"
+  ],
+  "author": "Jake Billings & The Learning Spark Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jake-billings/learning-spark/issues"
+  },
+  "homepage": "https://github.com/jake-billings/learning-spark#readme"
+}
